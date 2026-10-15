@@ -1,4 +1,6 @@
 {
+    "name": "r507/tp02-production",
+    "description": "A project to test CI with Github Actions",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "dev",
